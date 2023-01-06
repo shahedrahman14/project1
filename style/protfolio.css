@@ -71,7 +71,7 @@ padding: 150px 130px;}
     font-weight: 700;
     font-size: 35px;
 
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .section-des{
     font-size: 18px;
@@ -116,4 +116,33 @@ padding: 150px 130px;}
 .skill-des{
     color: #757575;
     
+}
+.section-title{
+    margin-top:130px;
+text-align:center;
+}
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+.resume .title{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resume .sub-title{
+    margin-bottom: 20px;
+    color: #757575;
+font-size: 20px;
+font-weight: 600;
+}
+.resume-item{
+
+}
+.resume .des{
+    color: #757575;
+}
+.resume-btn{
+    margin-top: 60px;
+    text-align: center;
 }
